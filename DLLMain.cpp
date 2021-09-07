@@ -33,7 +33,7 @@ BOOL WINAPI DllMain(HMODULE hModule,
         }
         case DLL_PROCESS_DETACH:
         {
-            printf("AnonPresence Unloaded! \n");
+            printf("DLLProxyProject Unloaded! \n");
             FreeConsole();
             break;
         }
