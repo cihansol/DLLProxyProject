@@ -1,2 +1,2 @@
 # DLLProxyProject
-A skeleton native windows C++ DLL project for proxying
+A skeleton Windows C++ DLL project for proxying
